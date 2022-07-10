@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 MOC OF MOCS.md",
+            "file": "200 MOC MÉTODOS DE ESTUDO.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 MOC OF MOCS.md",
+                "file": "200 MOC MÉTODOS DE ESTUDO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,12 @@
   },
   "active": "4e86551cf901ed76",
   "lastOpenFiles": [
-    "000 MOC OF MOCS.md",
-    "300 MOC VÍDEOS.md",
     "200 MOC MÉTODOS DE ESTUDO.md",
     "100 MOC PLUGINS.md",
+    "000 MOC OF MOCS.md",
+    "410 MOC Plugins.md",
+    "400 MOC Anki.md",
+    "300 MOC VÍDEOS.md",
     "README.md"
   ]
 }
