@@ -1,8 +1,6 @@
-# Anki
+# [[100 Métodos de Estudo]]
+# [[200 Anki]]
 
-- [[410 Anki Plugins]]
+- [[210 Anki Plugins]]
 
-# Obsidian
-+ [[100 MOC PLUGINS]]
-+ [[200 MOC MÉTODOS DE ESTUDO]]
-+ [[300 MOC VÍDEOS]]
+# [[300 Obsidian]]
