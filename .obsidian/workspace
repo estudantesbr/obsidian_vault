@@ -7,8 +7,12 @@
         "id": "f6103f6f93ce20c8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +89,15 @@
   },
   "active": "f6103f6f93ce20c8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
-    "000 MOC OF MOCS.md",
-    "200 MOC MÉTODOS DE ESTUDO.md",
-    "100 MOC PLUGINS.md",
-    "300 MOC VÍDEOS.md"
+    "LeaderBoard.md",
+    "media/Pasted image 20220710144407.png",
+    "000 index.md",
+    "100 Métodos de Estudo.md",
+    "200 Anki.md",
+    "210 Anki Plugins.md",
+    "310 Obsidian Plugins.md",
+    "conflict-files-obsidian-git.md",
+    "000 MOC OF MOCS.md"
   ]
 }
