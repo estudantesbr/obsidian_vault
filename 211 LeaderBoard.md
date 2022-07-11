@@ -5,5 +5,5 @@ Link da Extensão: https://ankiweb.net/shared/info/41708974
 
 Nela você pode se cadastrar e encontrar um grupo de pessoas que participam desse canal.
 
-Grupo: Anki Flashcards
-Senha: ankisrs
+- **Grupo**: Anki Flashcards
+- **Senha**: ankisrs
