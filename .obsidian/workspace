@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "000 index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "000 index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f6103f6f93ce20c8",
   "lastOpenFiles": [
+    "100 Métodos de Estudo.md",
+    "000 index.md",
+    "310 Obsidian Plugins.md",
+    "300 Obsidian.md",
+    "210 Anki Plugins.md",
+    "200 Anki.md",
     "README.md",
     "LeaderBoard.md",
     "media/Pasted image 20220710144407.png",
-    "000 index.md",
-    "100 Métodos de Estudo.md",
-    "200 Anki.md",
-    "210 Anki Plugins.md",
-    "310 Obsidian Plugins.md",
-    "conflict-files-obsidian-git.md",
-    "000 MOC OF MOCS.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
