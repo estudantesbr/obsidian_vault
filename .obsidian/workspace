@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "400 AHK.md",
+            "file": "000 index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 AHK.md",
+                "file": "000 index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f6103f6f93ce20c8",
   "lastOpenFiles": [
-    "AHK abrir qualquer site da internet.md",
     "400 AHK.md",
+    "AHK adicionar música a biblioteca.md",
+    "000 index.md",
+    "README.md",
+    "AHK abrir qualquer site da internet.md",
     "200 Anki.md",
     "210 Anki Plugins.md",
     "100 Métodos de Estudo.md",
-    "000 index.md",
     "300 Obsidian.md",
-    "310 Obsidian Plugins.md",
-    "AHK Pesquisa de seleção no Google.md",
-    "README.md"
+    "310 Obsidian Plugins.md"
   ]
 }
